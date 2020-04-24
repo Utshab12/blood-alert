@@ -1,0 +1,8 @@
+{
+  "name": "BloodAlert",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
